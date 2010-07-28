@@ -1,0 +1,25 @@
+#labels Scrum,Agile,BPM,SCM,QA,Lean
+
+= Introduction =
+
+ClearWorks is a flexible and powerful Agile project management software that works with Scrum, Extreme Programming, etc. It is also a BPM(Business Process Management) software that provides governance of enterprise business's process environment to improve agility and operational performance. ClearWorks Agile software maximizes development productivity by empowering developers and project managers. Our software includes a comprehensive set of tools and features that streamline the Agile approach to project management and development.
+
+
+= Features =
+
+  * Flexible work-flow management
+  * Wiki for communication
+  * Requirements Management
+  * Agile estimating and planning
+  * Customer e-mail life-cycle management
+  * Process analysis statistic charts
+  * Risk & cost analysis
+  * Integration with development environment,
+    Eclipse and Visual Studio 2005/Visual Studio 2008 etc.
+  * User story based Test Case organize
+  * Impediment management
+  * Test result associated bug report
+  * Complex building & continue integration
+  * Build in SCM system, support Git,Hg,SVN,Perforce,VSS,TFS etc.
+  * Distributed multi-team agile management
+  * People Allocation Management
