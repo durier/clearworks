@@ -21,3 +21,7 @@ ClearWorks is a flexible and powerful Agile project management software that wor
   * Build in SCM system, support Git,Hg,SVN,Perforce,VSS,TFS etc.
   * Distributed multi-team agile management
   * People Allocation Management
+
+
+<a href="http://www.sevenuc.com/image/mainmenu_en.jpg">
+	<img alt="ClearWorks main menu" src="http://www.sevenuc.com/image/mainmenu_en.jpg" border="0" height="384" width="600"></a>
