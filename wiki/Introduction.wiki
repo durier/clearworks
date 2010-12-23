@@ -1,4 +1,4 @@
-#labels Scrum,Agile,BPM,SCM,QA,Lean
+#labels Scrum,Agile,BPM,SCM,QA,Lean,XP,Process,Management
 = About =
 
 ClearWorks is a flexible and powerful Agile project management software that works with Scrum, Extreme Programming, etc. It is also a BPM(Business Process Management) software that provides governance of enterprise business's process environment to improve agility and operational performance. ClearWorks Agile software maximizes development productivity by empowering developers and project managers. Our software includes a comprehensive set of tools and features that streamline the Agile approach to project management and development.
@@ -24,4 +24,4 @@ ClearWorks is a flexible and powerful Agile project management software that wor
 
 
 <a href="http://www.sevenuc.com/image/mainmenu_en.jpg">
-	<img alt="ClearWorks main menu" src="http://www.sevenuc.com/image/mainmenu_en.jpg" border="0" height="384" width="600"></a>
+	<img alt="ClearWorks main menu" src="http://www.sevenuc.com/image/mainmenu_en.jpg" border="0" height="384" width="600">
